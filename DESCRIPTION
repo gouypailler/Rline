@@ -5,7 +5,6 @@ Author: c(person("Charles", "Tang", email = "j316chuck@berkeley.edu", role = c("
     person("David", "Detomasa", email = "david.detomaso@berkeley.edu", role = c("aut")))
 Maintainer: Charles Tang <chuck.tang98@gmail.com>
 Description: R wrapper functions written around the LINE graph-embedding algorithm. 
-Depends: R (>= 3.4.0) 
 License: MIT + file LICENSE
 Encoding: UTF-8
 Imports: Rcpp
